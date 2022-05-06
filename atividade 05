@@ -1,14 +1,15 @@
-print("TEXTO!")
 
-print("Aula Introdução ao Python")
+#print("TEXTO!")
+
+#print("Aula Introdução ao Python")
 
 print("Esta é uma aula de programação")
 
-print("Vimos que existem várias linguagens,")
+#print("Vimos que existem várias linguagens,")
 
-print("como")
+#print("como")
 
-print("a linguagem Java!")
+#print("a linguagem Java!")
 
 print("A linguagem que estamos utilizando é")
 
@@ -16,13 +17,13 @@ print("a linguagem Python!")
 
 print("Nossa Aula é na")
 
-print("Infinity")
+#print("Infinity")
 
-print("também conhecida como")
+#print("também conhecida como")
 
 print("Infinity School.")
 
-print("Bons códigos!")
+#print("Bons códigos!")
 
-print("Esta Linha será um comentário em breve!")
+#print("Esta Linha será um comentário em breve!")
 #print
