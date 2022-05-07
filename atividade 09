@@ -1,7 +1,13 @@
-a= 8
-b= 9
-c= 7
+a=int(input("nota01 "))
+b=int(input("nota02 "))
+c=int(input("nota03 "))
+d=int(input("nota04 "))
 
-print((a+b+c)/3)
+print("média igual a", (a+b+c+d)/4)
 
-print((8+9+7)/3)
+a=int(input("nota01 "))
+b=int(input("nota02 "))
+c=int(input("nota03 "))
+d=int(input("nota04 "))
+
+print("média igual a", (a+b+c+d)/4)
